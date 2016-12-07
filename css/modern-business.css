@@ -5,9 +5,7 @@
  */
 
 /* Global Styles */
-hr { height: 5px;
-    background color: ffo;
-}
+
 html,
 body {
     height: 100%;
@@ -74,6 +72,16 @@ header.carousel .fill {
 footer {
     margin: 50px 0;
 }
+hr { height: 5px;
+    background color: f00;
+}
+
+/*Carousel*/
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
 /*Video*/
 Iframe {
 width: 100%;
