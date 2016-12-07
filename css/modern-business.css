@@ -79,7 +79,7 @@ hr { height: 5px;
 /*Carousel*/
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
-      width: 70%;
+      width: 100%;
       margin: auto;
   }
 /*Video*/
