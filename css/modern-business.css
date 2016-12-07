@@ -79,16 +79,9 @@ hr { height: 5px;
 /*Carousel*/
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
-      position: absolute;
- 
-  min-width: 100%;
-  height: 500px;
-  }
-/*.carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
       width: 70%
       margin: auto;
-  }*/
+  }
 /*Video*/
 Iframe {
 width: 100%;
