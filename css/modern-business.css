@@ -5,7 +5,9 @@
  */
 
 /* Global Styles */
-
+hr { height: 5px;
+    background color: ffo;
+}
 html,
 body {
     height: 100%;
